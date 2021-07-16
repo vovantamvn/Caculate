@@ -1,2 +1,2 @@
-# Pratice with Git
+It will conflic
 
