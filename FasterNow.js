@@ -1,2 +1,2 @@
-var a = "Hello!"
-var abc = "abc";
+No content!
+
